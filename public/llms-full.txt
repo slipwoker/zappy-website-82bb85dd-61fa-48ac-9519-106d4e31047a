@@ -2,13 +2,13 @@
 
 Soul Blades is an original Hebrew fantasy/action series created by the user, following 9-year-old Mondiev who discovers his late father was a legendary warrior and inherits the mythical Soul Blade — a sword that absorbs power from enemies but risks cracking under overuse. The series features dark, dramatic storytelling with anime-style themes including mysterious enemies with a red-eye symbol, a mentor named Rain, epic battles, and an evolving power system. The tone is intense and emotional, blending coming-of-age grief with supernatural action.
 
-Source: https://example.com
+Source: https://soul-blades.zappy5.app
 
 ---
 
 ## שלטו בלהב — Soul Blades
 
-URL: https://example.com
+URL: https://soul-blades.zappy5.app
 Description: הצטרפו למסע האפל של מונדיב בן ה-9, יורש להב הנשמה המיתולוגי. סדרת פנטזיה עברית מקורית עם קרבות אפיים, אויבים מסתוריים וכוח שעלול להתנפץ. היכנסו עכשיו לעולם שבו כל ניצחון גובה מחיר.
 
 שלטו בלהב — Soul Blades
@@ -698,7 +698,7 @@ Soul Blades היא יותר מסדרה — זו הבטחה. מסע של ילד �
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://soul-blades.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -968,7 +968,7 @@ Soul Blades ("החברה", "אנו", "שלנו") מחויבת להגן על פר
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://soul-blades.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1247,7 +1247,7 @@ Soul Blades מחויבת להנגיש את השירותים לכלל הציבו�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://soul-blades.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1545,7 +1545,7 @@ Soul Blades מספקת Entertainment / Original Fiction Series דרך האתר. 
 
 ## תודה על פנייתך | Soul Blades
 
-URL: https://example.com/thank-you
+URL: https://soul-blades.zappy5.app/thank-you
 Description: Soul Blades - תודה על פנייתך | Soul Blades
 
 תודה על פנייתך | Soul Blades

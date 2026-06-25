@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://example.com
+https://soul-blades.zappy5.app
 הצטרפו למסע האפל של מונדיב בן ה-9, יורש להב הנשמה המיתולוגי. סדרת פנטזיה עברית מקורית עם קרבות אפיים, אויבים מסתוריים וכוח שעלול להתנפץ. היכנסו עכשיו לעולם שבו כל ניצחון גובה מחיר.
 
 ### תודה על פנייתך | Soul Blades
-https://example.com/thank-you
+https://soul-blades.zappy5.app/thank-you
 Soul Blades - תודה על פנייתך | Soul Blades
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://soul-blades.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://soul-blades.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://soul-blades.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -35,8 +35,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://soul-blades.zappy5.app
+- Endpoint: https://soul-blades.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -71,6 +71,6 @@ Entertainment / Original Fiction Series
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://soul-blades.zappy5.app/sitemap.xml
+- Robots: https://soul-blades.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://soul-blades.zappy5.app/llms-full.txt
