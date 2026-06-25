@@ -5362,6 +5362,26 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+.index-showcase-section .index-showcase-section__card {
+  border-radius: 12px !important;
+  overflow: hidden !important;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.14) !important;
+}
+
+.index-features-section .index-features-section__card {
+  border-radius: 12px !important;
+  overflow: hidden !important;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.14) !important;
+}
+
+.index-benefits-section .index-benefits-section__benefit {
+  border-radius: 12px !important;
+  overflow: hidden !important;
+  background-color: rgba(243, 240, 232, 0.5) !important;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.14) !important;
+  padding: 24px !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
